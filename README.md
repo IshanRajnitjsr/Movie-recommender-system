@@ -9,9 +9,13 @@ The application is fully deployable and hosted using Streamlit Community Cloud, 
 
 🔧 Technologies Used
 Python
+
 Pandas & NumPy
+
 Scikit-learn
+
 Streamlit
+
 TMDb API
 
 This project demonstrates practical implementation of machine learning concepts, API integration, and web application deployment. It serves as a strong foundation for understanding recommender systems and building real-world ML applications.
